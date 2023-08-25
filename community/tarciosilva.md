@@ -8,7 +8,6 @@ Olá, meu nome é Tarcio Silva e estou em transição de carreira. Sou formado e
 
 Hello, my name's Tarcio Silva and i'm currently in a career transition. I'm a computer science graduate with data **science and** ``front-end`` development. Now i'm going to dedicate studying ``full stack`` development.
 
-
 ## Hard Skills
 ![html] ![css] ![js] ![type] ![react] ![node] ![py] ![flask] ![sql] ![git]
 
